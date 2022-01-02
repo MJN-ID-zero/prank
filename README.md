@@ -1,5 +1,6 @@
 # selamat nyepam/prank mantan lu tod
-# spam prank
+# spam call prank
+# BY = MJN-ID-zero
 
 $ pkg update && pkg upgrade
 
