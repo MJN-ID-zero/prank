@@ -1,4 +1,4 @@
-#selamat nyepam/prank mantan lu tod
+# selamat nyepam/prank mantan lu tod
 # spam prank
 
 $ pkg update && pkg upgrade
